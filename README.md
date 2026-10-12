@@ -1,4 +1,4 @@
-# Webhook Delivery Platform — Phase 1
+# Webhook Delivery Platform
 
 Centralized webhook receiver and delivery platform.
 External services (Stripe, GitHub, Razorpay, Shopify, GitLab, Jira, Slack, Discord, Twilio, Jenkins)
